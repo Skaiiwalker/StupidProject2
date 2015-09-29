@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Stupid Project 2</string>
+    <string name="coolTalk">Yo son, how you diggity doin?</string>
+    <string name="colorChange">My app to change colors!!!</string>
+    <string name="action_settings">Settings</string>
+</resources>
